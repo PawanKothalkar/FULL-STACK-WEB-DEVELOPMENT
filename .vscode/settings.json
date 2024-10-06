@@ -1,3 +1,4 @@
 {
-    "workbench.editor.enablePreviewFromQuickOpen": false
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "livePreview.defaultPreviewPath": "c:\\WEB DEVELOPMENT PROJECT\\10.2+Grid+Placement\\10.2 Grid Placement\\solution1.html"
 }

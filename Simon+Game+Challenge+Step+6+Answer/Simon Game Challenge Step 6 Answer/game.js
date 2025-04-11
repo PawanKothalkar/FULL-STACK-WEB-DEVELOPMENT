@@ -41,3 +41,5 @@ function animatePress(currentColor) {
     $("#" + currentColor).removeClass("pressed");
   }, 100);
 }
+
+
